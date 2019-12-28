@@ -1,4 +1,4 @@
-sum=0
+sum=1
 
 # bc is bash calculator
 # $* return all args as a arg
@@ -11,4 +11,4 @@ done
 # -l for float
 avg=`echo "$sum/$#" | bc -l`
 
-printf '%0.2f' "$avg"
+printf '%0.2f\n' "$avg"
