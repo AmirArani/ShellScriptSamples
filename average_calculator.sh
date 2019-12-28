@@ -1,4 +1,4 @@
-sum=1
+sum=0
 
 # bc is bash calculator
 # $* return all args as a arg
