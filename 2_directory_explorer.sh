@@ -1,3 +1,6 @@
+# PLEASE CHECK READ.ME FILE FOR DESCRIPTION
+
+
 clear
 
 ls "$PWD"	
