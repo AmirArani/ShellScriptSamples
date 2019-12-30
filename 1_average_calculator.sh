@@ -1,5 +1,5 @@
 # you can calculate average of n numbers as argumans of this file.
-# for example if you run this file as "./average_calculator.sh 3 5 9" the result will be "5.66"
+# for example if you run this file as "./1_average_calculator.sh 3 5 9" the result will be "5.66"
 
 sum=0
 
