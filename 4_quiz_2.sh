@@ -1,6 +1,13 @@
 # THIS CODE IS AN EXAM QUESTION. SO IT DOESNT DO ANY SPECIAL THING.
-# YOU CAN READ THE QUESTION IN READ.ME
-# SO PLEASE CHECK README FILE FIRST
+
+# QUESTION: Make a pyramid like this and save it to output.txt. Forexample for 5:
+
+# 0
+# 01
+# 012
+# 0123
+# 01234
+# 012345
 
 
 
