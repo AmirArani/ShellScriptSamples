@@ -24,3 +24,7 @@ This is my college exam question and has 3 stages. This bash script needs two di
 *FIRST* create 10 files from 0 to 9 in first directory. All of even files are formatted as .txt and all of even files are formatted as .html. Also every file contains it's create date and hour. 
 *SECOND* copy all of .txt files to the second directory. 
 *THIRD* compress second directory as tar.gz
+
+**4 QUIZ #2**
+
+This is my collage exam question too. In this question you have to print and save a pyramid. You can see the example in script commnets :|
