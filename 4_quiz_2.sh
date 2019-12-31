@@ -1,3 +1,9 @@
+# THIS CODE IS AN EXAM QUESTION. SO IT DOESNT DO ANY SPECIAL THING.
+# YOU CAN READ THE QUESTION IN READ.ME
+# SO PLEASE CHECK README FILE FIRST
+
+
+
 # this function is for printing every line of pyramid. we call it and it append a line in the output.txt
 function print() {
 
